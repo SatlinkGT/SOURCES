@@ -8,7 +8,7 @@ network:
       gateway4: 190.160.50.1
       nameservers:
         addresses:
-        - 190.160.20.1
+        - 190.160.50.1
     eno2:
       dhcp4: false
     eno3:
