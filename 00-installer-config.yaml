@@ -2,7 +2,6 @@
 network:
   ethernets:
     eno1:
-      eno1:
       addresses:
       - 190.160.50.11/24
       gateway4: 190.160.50.1
